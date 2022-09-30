@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/U0ZUelG.png">
   </p>
 
-## Hi! My name is Tim and I'm an aspiring web developer studying Computer Science @ UC Irvine.
+### Hi! My name is Tim and I'm an aspiring web developer studying Computer Science @ UC Irvine.
 
 <p align="center">
   <a href="https://github.com/lordtimzki"><img src="https://github-readme-stats.vercel.app/api?username=lordtimzki&hide_border=true&show_icons=true" </a>
