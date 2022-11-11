@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/zyHRUz8.png">
+  <img src="https://i.imgur.com/v1laQzW.png">
   </p>
 
 ### Hi! My name is Tim and I'm an aspiring web developer studying Computer Science @ UC Irvine.  
