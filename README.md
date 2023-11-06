@@ -2,8 +2,8 @@
   <img src="https://i.imgur.com/v1laQzW.png">
   </p>
 
-### Hi! My name is Tim and I'm an aspiring web developer studying Computer Science at UC Irvine.  
-<a>What got me interested into Web Development was the amount of things you can do on a website. Promo websites of [anime](https://www.fatestaynightusa.com/) and [video games](https://toarise.tales-ch.jp) are one of the biggest reasons why I want to do **Front-End** Development. As of right now, I am currently working on my portfolio website. Check me out on [LinkedIn](https://www.linkedin.com/in/timothy-dacalos-63149b1b7/)! </a>
+### Hi! My name is Tim and I'm an aspiring iOS developer studying Computer Science at UC Irvine.  
+<a>What got me interested into Mobile Development was the amount of things you can do on a phone, specifically iOS because I am a user of Apple. As of right now, I am currently working on my portfolio website. Check me out on [LinkedIn](https://www.linkedin.com/in/timothy-dacalos-63149b1b7/)! </a>
 
 
 <p align="center">
