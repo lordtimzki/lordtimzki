@@ -2,8 +2,8 @@
   <img src="https://i.imgur.com/v1laQzW.png">
   </p>
 
-### Hi! My name is Tim and I'm an aspiring iOS developer studying Computer Science at UC Irvine.  
-<a>What got me interested into Mobile Development was the amount of things you can do on a phone, specifically iOS because I am a user of Apple. As of right now, I am currently working on my portfolio website. Check me out on [LinkedIn](https://www.linkedin.com/in/timothy-dacalos-63149b1b7/)! </a>
+### Hi! My name is Tim and I'm an aspiring iOS/Web developer studying Computer Science at UC Irvine.  
+<a>What got me interested into Mobile/Web Development was the amount of things you can do on an phone and the beautiful visuals that you can provide with websites. As of right now, I am currently working on my portfolio website. Check me out on [LinkedIn](https://www.linkedin.com/in/timothy-dacalos-63149b1b7/)! </a>
 
 
 <p align="center">
