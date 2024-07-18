@@ -2,8 +2,8 @@
   <img src="https://i.imgur.com/v1laQzW.png">
   </p>
 
-### Hi! My name is Tim and I'm an aspiring Web developer studying Computer Science at UC Irvine.  
-<a>What got me interested into Web Development was the amount of things you can do on an phone and the beautiful visuals that you can provide with websites. As of right now, I am currently working on my portfolio website. Check me out on [LinkedIn](https://www.linkedin.com/in/timothy-dacalos-63149b1b7/)! </a>
+### Hi! My name is Tim and I'm a Web developer studying Computer Science at UC Irvine.  
+<a>As of right now, I am currently working on my portfolio website. Check me out on [LinkedIn](https://www.linkedin.com/in/timothy-dacalos-63149b1b7/)! </a>
 
 
 <p align="center">
