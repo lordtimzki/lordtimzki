@@ -2,25 +2,11 @@
   <img src="https://i.imgur.com/v1laQzW.png">
   </p>
 
-### Hi! My name is Tim and I'm a Web developer studying Computer Science at UC Irvine.  
-<a>As of right now, I am currently working on my portfolio website. Check me out on [LinkedIn](https://www.linkedin.com/in/timothy-dacalos-63149b1b7/)! </a>
+### Hey everyone my name is Timothy, but you everyone calls me Tim.
+<h3>Technologies:</h3>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 
 <p align="center">
   <a href="https://github.com/lordtimzki"><img src="https://github-readme-stats.vercel.app/api?username=lordtimzki&hide_border=true&show_icons=true" </a>
 </p>
-
-<!--
-**lordtimzki/lordtimzki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
